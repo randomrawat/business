@@ -151,7 +151,7 @@ nav a:hover {
     background: url('background2.jpg') no-repeat center center/cover;
     /* Replace with your image */
     color: var(--text-light);
-    min-height: 80vh;
+    min-height: 90vh;
     display: flex;
     align-items: center;
     text-align: center;
@@ -403,4 +403,5 @@ footer {
         min-width: 100%;
     }
 }
+
 
