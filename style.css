@@ -148,7 +148,7 @@ nav a:hover {
 
 /* Hero Section */
 .hero {
-    background: url('hero-bg.jpg') no-repeat center center/cover;
+    background: url('background2.jpg') no-repeat center center/cover;
     /* Replace with your image */
     color: var(--text-light);
     min-height: 80vh;
@@ -403,3 +403,4 @@ footer {
         min-width: 100%;
     }
 }
+
